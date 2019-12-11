@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d1bb7db0.chunk.css",
+    "main.js": "/portfolio/static/js/main.455b16d2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.455b16d2.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c72310a3.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c72310a3.js.map",
+    "static/css/2.559fd73f.chunk.css": "/portfolio/static/css/2.559fd73f.chunk.css",
+    "static/js/2.3fc45333.chunk.js": "/portfolio/static/js/2.3fc45333.chunk.js",
+    "static/js/2.3fc45333.chunk.js.map": "/portfolio/static/js/2.3fc45333.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f9474d58f925f7bc9cb37f342431033c.js": "/portfolio/precache-manifest.f9474d58f925f7bc9cb37f342431033c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.559fd73f.chunk.css.map": "/portfolio/static/css/2.559fd73f.chunk.css.map",
+    "static/css/main.d1bb7db0.chunk.css.map": "/portfolio/static/css/main.d1bb7db0.chunk.css.map",
+    "static/js/2.3fc45333.chunk.js.LICENSE": "/portfolio/static/js/2.3fc45333.chunk.js.LICENSE",
+    "static/media/App.css": "/portfolio/static/media/cup-desk-drink-434337.ea1ad893.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72310a3.js",
+    "static/css/2.559fd73f.chunk.css",
+    "static/js/2.3fc45333.chunk.js",
+    "static/css/main.d1bb7db0.chunk.css",
+    "static/js/main.455b16d2.chunk.js"
+  ]
+}
