@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efec713e855f8a7bb3eba0af1363b14f",
+    "revision": "b4149177698e19bcefd245890a62094d",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.559fd73f.chunk.css"
   },
   {
-    "revision": "977c15059a6dcd5ecb49",
-    "url": "/static/css/main.a7f7efc8.chunk.css"
+    "revision": "884357066b5747c899b4",
+    "url": "/static/css/main.e6e5f9e9.chunk.css"
   },
   {
     "revision": "a182a4ac682799f0b788",
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.3fc45333.chunk.js.LICENSE"
   },
   {
-    "revision": "977c15059a6dcd5ecb49",
+    "revision": "884357066b5747c899b4",
     "url": "/static/js/main.f77bb636.chunk.js"
   },
   {
     "revision": "000e8d7b1accd8df8473",
     "url": "/static/js/runtime-main.42a2bec1.js"
-  },
-  {
-    "revision": "940c3a87d8c291e4f82d8da60f4d4fe8",
-    "url": "/static/media/Blue_Sky_Background-1512.940c3a87.jpg"
   },
   {
     "revision": "ea1ad8933c0320fc01ce8dd072a28752",

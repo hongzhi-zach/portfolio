@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7f7efc8.chunk.css",
+    "main.css": "/static/css/main.e6e5f9e9.chunk.css",
     "main.js": "/static/js/main.f77bb636.chunk.js",
     "main.js.map": "/static/js/main.f77bb636.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.42a2bec1.js",
@@ -9,10 +9,10 @@
     "static/js/2.3fc45333.chunk.js": "/static/js/2.3fc45333.chunk.js",
     "static/js/2.3fc45333.chunk.js.map": "/static/js/2.3fc45333.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e7b3cdd7770bf19bcaafca9d58d95b5b.js": "/precache-manifest.e7b3cdd7770bf19bcaafca9d58d95b5b.js",
+    "precache-manifest.b99afce4f5e30c0062b5de6e950399ab.js": "/precache-manifest.b99afce4f5e30c0062b5de6e950399ab.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.a7f7efc8.chunk.css.map": "/static/css/main.a7f7efc8.chunk.css.map",
+    "static/css/main.e6e5f9e9.chunk.css.map": "/static/css/main.e6e5f9e9.chunk.css.map",
     "static/js/2.3fc45333.chunk.js.LICENSE": "/static/js/2.3fc45333.chunk.js.LICENSE",
     "static/media/App.css": "/static/media/cup-desk-drink-434337.ea1ad893.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.42a2bec1.js",
     "static/css/2.559fd73f.chunk.css",
     "static/js/2.3fc45333.chunk.js",
-    "static/css/main.a7f7efc8.chunk.css",
+    "static/css/main.e6e5f9e9.chunk.css",
     "static/js/main.f77bb636.chunk.js"
   ]
 }
